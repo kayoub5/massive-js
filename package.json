@@ -41,7 +41,7 @@
     "underscore": "^1.8.2"
   },
   "devDependencies": {
-    "eslint": "^1.10.3",
+    "eslint": "^2.8.0",
     "istanbul": "^0.4.2",
     "mocha": "^2.1.0",
     "sinon": "^1.12.2"
